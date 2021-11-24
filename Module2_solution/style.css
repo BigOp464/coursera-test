@@ -1,0 +1,33 @@
+<style>
+*{
+	box-sizing: border-box;
+}
+h1{
+	text-align: center;
+}
+#box{
+	width: 500px;
+	background-color:grey ;
+	border: 3px solid;
+	margin: 3px;
+	float: left;
+	padding: 2px;
+
+}
+
+#heading{
+	background-color: orange;
+	border: 3px solid;
+	text-align: center;
+	width: 100px;
+	float: right;
+	margin: 0px;
+
+}
+#content{
+	padding-top: 10px;
+	background-color: grey;
+	text-align: center;
+}
+
+</style>
