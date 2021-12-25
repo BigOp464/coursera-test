@@ -1,0 +1,95 @@
+*{
+	box-sizing: border-box;
+}
+body{
+	margin: 0;
+	padding: 0;
+}
+
+
+li{
+	color: black;
+}
+
+h1{
+	text-align: center;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+button{
+	float: right;
+	width: 50px;
+	height: 50px;
+}
+a:hover {
+  color: black;
+}
+
+svg{
+	padding-right: 15px;
+}
+
+.title{
+	text-align: center;
+	padding-top: 1px;
+	font-size: 1.5em;
+	font-weight: bold;
+}
+
+.description{
+	background-color: grey;
+	text-align: center;
+	padding:0px 15px 0px;
+	font-size: 1.2em;
+
+}
+
+.box{
+	margin: 20px;
+	padding-top: 15px;
+	background-color: grey;
+	text-align: center;
+	height: 1000px;
+}
+
+.navbar-brand{
+	text-decoration: none;
+	font-size: 2em;
+	padding: 15px;
+	color: black;
+	font-weight: bold;
+	text-shadow: none;
+	
+}
+.navbar-header{
+	width: 100%;
+	margin: 0px;
+	clear: both;
+}
+.navbar{
+	background-color:grey;
+}
+.items{
+	
+	color: black;
+}
+.navbar-light{
+	color: white;
+}
+.nav-link{
+	background-color: white;
+	color: black;
+}
+.dropdown {
+    position:static !important;
+    font-weight: bold;
+}
+.dropdown-menu{
+	width:100% ;
+	text-align: center;
+	font-weight: bold;
+}
+.navbar{
+	border: black;
+	background-color: grey;
+}
